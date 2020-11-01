@@ -95,3 +95,6 @@ plantuml_syntax_error_image
 
 plantuml_cache_path
   Directory where image cache is stored. (default: '_plantuml')
+
+plantuml_batch_size
+  Run plantuml command per the specified number of images. (default: 1)
